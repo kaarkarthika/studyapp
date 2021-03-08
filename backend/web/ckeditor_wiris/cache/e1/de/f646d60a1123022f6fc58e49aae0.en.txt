@@ -1,0 +1,1 @@
+{"result":{"text":"open curly brackets d close curly brackets"},"status":"ok"}
